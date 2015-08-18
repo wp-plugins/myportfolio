@@ -5,6 +5,7 @@ Plugin Name: Myportfolio
 Description: This is a solution for potfolio solutions
 Version: 1.00
 Author: srinidhi
+Author URI: https://profiles.wordpress.org/srinidhibhargava
 License:     GPL2
  
 {Plugin Name} is free software: you can redistribute it and/or modify
