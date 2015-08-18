@@ -1,5 +1,5 @@
 === Myportfolios ===
-Contributors: srinidhi
+Contributors: srinidhibhargava
 Tags: porfolio, filter portfolio
 Donate link: http://www.shoutmeloud.com/
 Requires at least: 3.9
